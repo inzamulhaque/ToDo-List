@@ -41,5 +41,9 @@
   "main": "index.js",
   "devDependencies": {},
   "author": "MD IH Alif",
-  "license": "ISC"
+  "license": "ISC",
+  "engines": {
+    "node": "12.16.0"
+  }
+
 }
